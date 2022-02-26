@@ -1,0 +1,203 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Two speeches spoken at the councell-table at Oxford. The one, by the Right Honourable John Earle of Bristoll, in favour of the continuation of the present warre. The other, by the Right Honourable Edward Earle of Dorset, for a speedy accomodation betwixt His Majestie, and his high court of Parliament.</title>
+            <author>Bristol, John Digby, Earl of, 1580-1654.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A77539</idno>
+            <idno type="STC">Wing B4798</idno>
+            <idno type="STC">Thomason E83_19</idno>
+            <idno type="STC">ESTC R212815</idno>
+            <idno type="EEBO-CITATION">99871376</idno>
+            <idno type="PROQUEST">99871376</idno>
+            <idno type="VID">155634</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A77539)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 155634)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 14:E83[19])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Two speeches spoken at the councell-table at Oxford. The one, by the Right Honourable John Earle of Bristoll, in favour of the continuation of the present warre. The other, by the Right Honourable Edward Earle of Dorset, for a speedy accomodation betwixt His Majestie, and his high court of Parliament.</title>
+                  <author>Bristol, John Digby, Earl of, 1580-1654.</author>
+                  <author>Dorset, Edward Sackville, Earl of, 1591-1652.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed at Oxford by Leonard Lichfield, And now reprinted at London for Iohn Hanson,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"The original Oxford edition probably never existed" (Madan).</note>
+                  <note>Annotation on Thomason copy: "Decemb: 24.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-04</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2013-04</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:155634:1" rendition="simple:additions"/>
+            <p>TWO SPEECHES Spoken at the <hi>Councell-Table</hi> at OXFORD.</p>
+            <p>The one, by the Right Honourable JOHN <hi>Earle</hi> of <hi>Briſtoll,</hi> in favour of the continuation of the preſent WARRE.</p>
+            <p>The other, by the Right Honourable EDWARD <hi>Earle</hi> of <hi>Dorſet,</hi> for a ſpeedy Accomodation betwixt His MAJESTIE, and his High Court <hi>of</hi> PARLIAMENT.</p>
+            <figure>
+               <figDesc>royal blazon or coat of arms</figDesc>
+               <q>HONI SOIT QVI MAL Y PENSE</q>
+               <q>DIEV ET MON DROIT</q>
+            </figure>
+            <p>Printed at <hi>Oxford</hi> by <hi>Leonard Lichfield,</hi> And now reprinted at LONDON for <hi>Iohn Hanſon.</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="speech">
+            <pb facs="tcp:155634:2"/>
+            <pb n="3" facs="tcp:155634:2"/>
+            <head>A SPEECH ſpoken by the Right Honourable <hi>IOHN</hi> Earle of <hi>Briſtoll,</hi> in favour of the Continuation of the preſent WARRE.</head>
+            <opener>
+               <salute>MY LORDS,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Know you doe expect I ſhould deliver my Opinion in the preſent Affaires, which how much more weighty it is, ſo much more timorous am I to diſco<g ref="char:EOLhyphen"/>ver mine Opinion in it, leſt ſome ſhould imagine my Vote to arrogate to it ſelfe a Definitive power, and looke to paſſe with<g ref="char:EOLhyphen"/>out any contradiction. But I diſclaime all ſuch haughtie in<g ref="char:EOLhyphen"/>tentions, and ſhall plainly, and according to my conſcience, give in my true verdict of the affaire in agitation, namely, whether it were better for the honour and ſafety of his Ma<g ref="char:EOLhyphen"/>jeſty, and the good of his Kingdomes to continue the preſent war or to aquire and endeavour a ſudden peace betwixt his Majeſty and his Court of Parliament.</p>
+            <p>
+               <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+            </p>
+            <p>W<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> my Lords the Phyſitians that <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ough<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> to diſcourſe of the <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <pb n="4" facs="tcp:155634:3"/>wholeſomeſt remedies our art can invent, labour her ſudden cure; But yet wee ought to take heed that the cure be not worſe then the diſeaſe; that while wee ſtrive to compoſe the differences which are but contingent to us, wee pull upon our ſelves and our families certaine and not to be avoy<g ref="char:EOLhyphen"/>ded ruines. Charity begins at home, ſayes the Proverb, and in Wiſedome wee are ingaged to provide, that by the pur<g ref="char:EOLhyphen"/>chaſe of the publique peace we do not intail upon our Poſte<g ref="char:EOLhyphen"/>rities the cruelleſt of all wars; The wars which our children and their deſcendents muſt have with want and penury, the greateſt and moſt depreſſing enemy that can manage armes againſt noble and generous minds: And to that exigent muſt we betray them for the future, our ſelves for the preſent, if we yeeld to, or determine of a peace. The Parliament hath de<g ref="char:EOLhyphen"/>clared divers of the greateſt and moſt eminent in nobility amongſt us, Delinquents, in the higheſt nature to the Com<g ref="char:EOLhyphen"/>mon-wealth, have proſcribed our perſons, and adjudged our eſtates no longer ours, but forfeits to the Co<g ref="char:cmbAbbrStroke">̄</g>monwealth, and ſo have taken order for the receiving and ſecuring our reve<g ref="char:EOLhyphen"/>nues into ſuch hands as ſhall diſpoſe them according to their intentions; and without this condition be ratified, it is moſt probably imagined they will hardly be drawne to an Accommodation for peace. In what ſtate then will our for<g ref="char:EOLhyphen"/>tunes ſtand? In what deplorable condition ſhall wee leave our children? heires onely to their parents loyalties, not to their lands.</p>
+            <q>Incidit in Scyllam, qui vult vitare Charybdim.</q>
+            <p>Wee ſhall juſtly verifie that ſentence: eſcaping a quicke<g ref="char:EOLhyphen"/>ſand, we ſhall fall upon a rocke that will ſplit us, out of one evill into a worſe; that condition of peace being incompa<g ref="char:EOLhyphen"/>tible with our exiſtences. But grant that this Article were removed out of the Propoſitions, as the caſe ſtands, my Lords, I cannot (though I love peace, and pray for it with all my heart) ſee which way his Majeſty can condeſcend to it with his honour. Is it fit for a King to beg peace of his Subjects? for the regall authority, the immediate figure of
+<pb n="5" facs="tcp:155634:3"/>heaven and the Deity on earth, to deſcend from its ſupreme height, and, as it were, to derive its power from a ſubor<g ref="char:EOLhyphen"/>dinate power derived from its bounty? That were to in<g ref="char:EOLhyphen"/>vert and vitiate the courſe of nature, to inforce the cauſe to give place to its effect, the Sunne to acknowledge his all-quickning heat and light, emergent from the terreſtriall fires, created (as it were) and iſſuing from his influence. In <hi>Spaine</hi> (where the long time I reſided there as Embaſſa<g ref="char:EOLhyphen"/>dour, afforded me priviledge to be well acquainted with the ſtate of that Kingdome) in no age or record can ſcarcely be found mention of inteſtine or civill war, till theſe very yeeres wherein all the world labours with diſſentions; the reaſon is, becauſe they are truly Subjects, and their Soveraigne tru<g ref="char:EOLhyphen"/>ly a Soveraigne. And ſince the ſtate here will neither be ſo to the King, nor ſuffer the King to be ſo to them; my reaſon tels me, they ſhould be compelled to it. It is no diſhonour for Subjects to condiſcend to any Propoſitions to their King, but it is an exceſſive declenſion and diminution to his Maje<g ref="char:EOLhyphen"/>ſties royality, to ſubmit himſelfe to his Subjects: <hi>Fuiſſe faeli<g ref="char:EOLhyphen"/>cem miſerrimum eſt.</hi> My Opinion therefore is (with all humi<g ref="char:EOLhyphen"/>lity to his Majeſty) that He neither propound to the Parlia<g ref="char:EOLhyphen"/>ment, or receive from them any Conditions for peace, but ſuch as ſhall abſolutely comply with the Regall dignity and Prerogative, (which God and ſucceſſion hath allowed him) and ſuch as may be no way prejudiciall to us or our eſtates, his Majeſties moſt faithfull ſervants and Counſellors. Wee have an Army on foot, a braver the Sunne never ſhone on, an Army, that by force can compell that which fair words can<g ref="char:EOLhyphen"/>not effect; and ſince <hi>Emori per virtutem praeſtat quam per dede<g ref="char:EOLhyphen"/>cus vivere,</hi> let us reſolve, alwayes ſubmitting to his Majeſties judgement, to goe on cheerefully in theſe wars, which, though they be rough and churliſh parents, will at the laſt bring forth that mild and gentle off-ſpring peace, and we ſhal enjoy that with honour and ſafety, which otherwiſe with diſgrace and detriment we ſhall be inforced to abandon.</p>
+         </div>
+         <div type="speech">
+            <pb n="6" facs="tcp:155634:4"/>
+            <head>The Earle of DORSETS Speech for a ſpeedy Accommodation with the PARLIAMENT.</head>
+            <opener>
+               <salute>My Lords,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>He Earle of Briſtoll has delivered his opinion, and my turne being next to ſpeake, I ſhall with the like integrity give your Lordſhips an account of my intentions in this great and important buſi<g ref="char:EOLhyphen"/>neſſe; I ſhall not as young Students doe in the Schooles, <hi>argumentandi gratia,</hi> repugne my Lord of <hi>Briſtols</hi> Tenents, but becauſe my conſcience tels me they are not Or<g ref="char:EOLhyphen"/>thodox nor conſonant to the diſpoſition of the Common<g ref="char:EOLhyphen"/>wealth, which languiſhing with a tedious ſickneſſe muſt be recovered by gentle and eaſie medicines, in conſideration of it's weakneſſe, rather then by violent vomits or any other corroding or compelling phyſicke. Not that I will abſolutely labour to refute my Lords opinions, but juſtly deliver my owne, which being contrary to his, may appeare an expreſſe contradiction of it, which indeed it is not; Peace, and that a ſudden one being ſo neceſſary betwixt His Majeſty and His Parliament, as light is requiſite for the production of the day, or heate to cheriſh from above all inferiour bodies. This di<g ref="char:EOLhyphen"/>viſion betwixt His Majeſty and His Parliament, being (as i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> by miracle) the Sun ſhould be ſeparated <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> be divided from his proper Eſſence, I would <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Lords be ready to embrace a peace that ſhould be <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>anta<g ref="char:EOLhyphen"/>gious to Us then the preſent war, which as the Earle of <hi>Bri<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>
+               </hi> ſayes, ſhould deſtroy our Eſtates and <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> The <gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>onely declares that againſt Delinqu<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> con<g ref="char:EOLhyphen"/>jecture have miſcounſelled His Maj<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ty, and be the authors
+<pb n="7" facs="tcp:155634:4"/>of theſe tumults in the Common-wealth; but this Declara<g ref="char:EOLhyphen"/>tion of theirs, except ſuch crimes can be proved againſt them is of ho validity; the Parliament will doe nothing unjuſtly, nor condemne the innocent, and certainly innocent men need not feare to appeare before any Judges whatſoever. And he who ſhall for any cauſe preferre his private good be<g ref="char:EOLhyphen"/>fore the publicke utility, is but an ill ſonne of the Common<g ref="char:EOLhyphen"/>wealth: For my particular, in theſe wars I have ſuffered as much as any, my Houſes have been ſearcht, my Armes taken thence, and my ſonne and heire committed to priſon; yet I ſhall wave theſe diſcourteſies, becauſe I know there <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>as a neceſſity they ſhould be ſo; and as the darling buſineſſe of the kingdome, the honour and proſperity of the King, ſtudy to reconcile all theſe differences between His Majeſty and His Parliament; and ſo to reconcile them, that they ſhall no way prejudice His Royall Prerogative, of which, I beleeve the Parliament being a Loyall Defendor (knowing the Sub<g ref="char:EOLhyphen"/>jects property dependent on it; for where Soveraignes can<g ref="char:EOLhyphen"/>not enjoy their Rights, their Subjects cannot) will never en<g ref="char:EOLhyphen"/>deavour to be an infringer; ſo that if doubts and jealouſies were taken away by a faire treaty between His Majeſty and the Parliament, no doubt a meanes might be deviſed to re<g ref="char:EOLhyphen"/>ctifie theſe differences. The honour of the King, the eſtates of us his followers and Counſellors, the Priviledges of Parli<g ref="char:EOLhyphen"/>ament, and property of the Subject, being inviolably preſer<g ref="char:EOLhyphen"/>ved in ſafety: And neither the King ſtoop in this to his Sub<g ref="char:EOLhyphen"/>jects, nor the Subjects be deprived of their juſt Liberty by the King. And whereas my Lord of Briſtoll affirmes, that in Spaine very few Civill diſſentions ariſe, becauſe the Subjects are truly Subjects, and their Soveraigne truly a Soveraigne, that is, as I underſtand it, the Subjects are ſcarcely removed a degree from ſlaves, nor the Sove<g ref="char:EOLhyphen"/>raigne from a Tyrant. Here in England the Subjects have by a long and received Liberty granted to their Aun<g ref="char:EOLhyphen"/>ceſtors from our Kings, made their freedome reſult into a ſecond nature; and neither is it ſafe for our Kings to ſtrive to
+<pb n="8" facs="tcp:155634:5"/>introduce the Spaniſh Government upon this free-borne Na<g ref="char:EOLhyphen"/>tion, nor juſt for the people to ſuffer that Government to be inforced upon them; which I am certaine His Majeſties goodneſſe never intended. And whereas my Lord of <hi>Briſtoll</hi> intimates the ſtrength and bravery of our Army, as an in<g ref="char:EOLhyphen"/>ducement to the continuation of theſe warres, which he pro<g ref="char:EOLhyphen"/>miſes himſelfe will produce a faire and happy peace; in this I am utterly repugnant to his opinion; for grant that we have an Army of gallant and able men, which indeed cannot be denyed, yet have we infinite diſadvantages on our ſide, the Parliament having double our number, and ſurely (though our enemies) perſons of as much bravery, nay, and ſure to be daily ſupplyed when any of their number failes, a benefit which we cannot boaſt; they having the moſt popular part of the kingdom at their devotion; all, or moſt of the Ci<g ref="char:EOLhyphen"/>ties, conſiderable Townes and Ports, together with the mai<g ref="char:EOLhyphen"/>neſt pillar of the kingdomes ſafety, the Sea, at their com<g ref="char:EOLhyphen"/>mand, and the Navy; and which is moſt materiall of all, an un<g ref="char:EOLhyphen"/>exhauſted Indies of money to pay their ſouldiers, out of the liberall contributions of Coyne and Plate ſent in by people of all conditions, who account the Parliaments Cauſe their Cauſe, and ſo thinke themſelves engaged to part with the uttermoſt penny of their eſtates in their defence, whom they eſteeme the Patriots of their Liberty. Theſe ſtrengths of theirs, and our defects conſidered, I conclude it neceſſary for all our ſafeties, and the good of the afflicted Common<g ref="char:EOLhyphen"/>wealth, humbly to beſeech His Majeſty to take ſome preſent order for a treaty of peace betwixt Himſelfe and His High Court of Parliament, who, I beleeve, are ſo loyall and obedi<g ref="char:EOLhyphen"/>ent to His ſacred Majeſty, that they will propound nothing that ſhall be prejudiciall to His Royall Prerogative, or repug<g ref="char:EOLhyphen"/>nant to their fidelity or duty.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
